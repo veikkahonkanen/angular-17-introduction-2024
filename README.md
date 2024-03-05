@@ -1,5 +1,7 @@
 # Angular17Introduction2024
 
+**Disclaimer** This repository has been created during lessons on "Introduction to Angular v17 February 2024". The contents of the repository are based on Skillsoft/Percipio learning content originally created by Axle Barr. I have but modified a default Angular project to match the lesson instructions.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
 ## Development server
